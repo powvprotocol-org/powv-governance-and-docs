@@ -8,7 +8,7 @@ icon: scale-balanced
 
 #### 1. Scope of the Trade Secret
 
-All technical infrastructure not explicitly published under Open Source licenses constitutes a **Trade Secret** and the exclusive intellectual property of the protocol's founder and its controlling corporate entities.
+All technical infrastructure not explicitly published under Open Source licenses constitutes a **Trade Secret** and the exclusive intellectual property of the protocol's founder, held through the registered business identified at the end of this policy.
 
 This includes, but is not limited to:
 
@@ -57,7 +57,7 @@ Since the protocol operates globally, its Intellectual Property and Trade Secret
 
 To establish clear evidence of trade secret active protection measures, the protocol defines that:
 
-* **Digital Custody Environment:** The infrastructure of this GitHub Organization, including its private repositories, cryptographic commit signatures, timestamps, and access logs, is legally recognized as the official Digital Custody and Trade Secret Environment of the controlling entity.
+* **Digital Custody Environment:** The infrastructure of this GitHub Organization, including its private repositories, cryptographic commit signatures, timestamps, and access logs, is legally recognized as the official Digital Custody and Trade Secret Environment of the rights holder identified at the end of this policy.
 * **Forensic Evidence:** This digital footprint constitutes immutable forensic evidence of authorship, active protection measures, and prior art under both national and international IP enforcement frameworks in any court of law.
 
 ***

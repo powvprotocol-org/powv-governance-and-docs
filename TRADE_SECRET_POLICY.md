@@ -25,7 +25,7 @@ Under **Article 195, items XI and XII, of Law No. 9,279/96**, the crime of unfai
 The protection measures adopted by the PoWV Protocol are:
 * **Private Repositories:** Access to closed code and architecture repositories on GitHub is restricted to individually authorized persons.
 * **Physical Access (Test Bench):** No physical or legal person (including developers, partners, investors, or consultants) is authorized to inspect the hardware test bench or access development terminals without first signing a **Non-Disclosure Agreement (NDA)**.
-* **IP Assignment Clause:** Any third-party contribution to the project (code or hardware) is conditional upon the full and irrevocable assignment of the economic (patrimonial) Intellectual Property rights to the rights holder identified at the end of this policy.
+* **IP Assignment Clause:** Any third-party contribution to the project (code or hardware) is conditional upon the full and irrevocable assignment of the economic (patrimonial) Intellectual Property rights to the rights holder identified at the end of this policy, made by a written instrument signed by the contributor.
 
 ## 4. Legal Remedies and International Protection
 
@@ -44,7 +44,7 @@ Outside Brazil, the PoWV Protocol's Intellectual Property and trade secrets may 
 
 ### 4.3 Digital Custody and Preservation of Records
 To support the reasonable protection measures expected for trade secrets, PoWV Protocol maintains the following practices:
-*   **Access-Controlled Custody:** Proprietary source code, specifications and internal documentation are kept in private repositories of this GitHub Organization. Access is granted individually, limited to what each person needs, and reviewed by the rights holder identified at the end of this policy.
+*   **Access-Controlled Custody:** Proprietary source code, specifications and internal documentation are maintained in access-controlled private repositories under the founder's administration, whether held in personal or organization-owned GitHub accounts. Access is granted individually, limited to what each person needs, and reviewed by the rights holder identified at the end of this policy.
 *   **Versioning:** Changes are recorded through version control. Each commit carries an author identity and a timestamp, and the hosting platform may add a signature. Where branch protection is enabled, protected history cannot be overwritten or deleted without administrative action.
 *   **Records Available as Evidence:** Commit history, platform signatures, timestamps and, while the platform retains them, access and audit records may be offered as evidence of authorship, of the dates on which material existed and of the protection measures in place. Their weight is decided by the competent court or arbitral tribunal.
 *   **Preservation:** When a dispute or investigation is reasonably anticipated, the rights holder will export and preserve the relevant records, compute and record cryptographic hashes of the exported files and, where appropriate, obtain independent certification, such as a notarial record (*ata notarial*) or a qualified timestamp.

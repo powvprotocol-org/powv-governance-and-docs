@@ -4,7 +4,7 @@ icon: circle-nodes
 
 # PoWV Protocol
 
-![PoWV Protocol — Proof of Weighted Value](https://raw.githubusercontent.com/powvprotocol-org/powvprotocol-org.github.io/main/logo.jpg)
+![PoWV Protocol logo](https://raw.githubusercontent.com/powvprotocol-org/powvprotocol-org.github.io/main/logo.jpg)
 
 ## PoWV Protocol
 

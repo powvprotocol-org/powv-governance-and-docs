@@ -58,7 +58,7 @@ These practices do not by themselves establish ownership, validity or infringeme
 ## 5. Authorship and AI-Assisted Development
 
 *   **Author:** PoWV Protocol is created and developed by its founder, Gabriel de Almeida Santos Silva. The commit history of the organization's public repositories records no other human contributor.
-*   **Independent Development:** Some commits were made from an academic email account. PoWV Protocol was not developed under a research agreement, grant or employment relationship with any academic institution, and is not funded by one.
+*   **Independent Development:** PoWV Protocol was developed independently by its founder, without funding, support, resources, research agreement or employment relationship with any academic institution. An academic email address was linked to the founder's personal GitHub account and appears as the author address on some early commits; it identifies the founder and does not indicate participation by the institution.
 *   **AI-Assisted Development:** Parts of the work were produced with the assistance of software tools, including AI coding assistants operated by the founder. Commit trailers such as `Co-Authored-By` record which tool was used. They do not identify an owner or co-owner of any right. The founder directed, reviewed and accepted that work.
 *   **Third-Party Components:** Third-party software, standards and data remain subject to their own licenses and are not claimed by PoWV Protocol.
 *   **Rights Reserved:** Unless a file states otherwise, the content of the PoWV Protocol repositories is not licensed for reuse.
